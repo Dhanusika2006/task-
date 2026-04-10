@@ -1,0 +1,28 @@
+==== TO-DO LIST ====
+1. Add Task
+2. View Tasks
+3. Delete Task
+4. Exit
+Enter choice: 1
+Enter new task: study python
+Task added!
+
+==== TO-DO LIST ====
+1. Add Task
+2. View Tasks
+3. Delete Task
+4. Exit
+Enter choice: 2
+
+Your Tasks:
+1. study python
+
+==== TO-DO LIST ====
+1. Add Task
+2. View Tasks
+3. Delete Task
+4. Exit
+Enter choice: 3
+
+Your Tasks:
+1. study python
